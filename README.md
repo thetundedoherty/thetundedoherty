@@ -4,6 +4,12 @@
 I am Ayotunde Doherty and I am Data professional with competencies in Data Analysis and business intelligence. I am interested in generating insightful reports for business intelligence and building interactive dashboard.
 
 
+### [Technical Skills](https://invest41.github.io/AlaoDavid.github.io/) 👨🏽‍💻
+| | | | 
+|:--|:--|:--|
+|Python <a href="https://www.python.org"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" /></a>  |Tableau <a href="https://www.tableau.com"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tableau.svg" /></a>  |  MS-Excel <a href="https://www.microsoft.com/en-us/microsoft-365/excel"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftexcel.svg"/></a>  |
+|  SQL <a href="https://www.sqlite.org/index.html"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sqlite.svg" /></a><a href="https://www.mysql.com"><img alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /></a>  |  Machine Learning <a href="https://scikit-learn.org/stable/"><img width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/scikit-learn.svg" /></a><a href="https://numpy.org"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/numpy.svg" /></a><a href="https://pandas.pydata.org"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pandas.svg" /></a>|  Deep Learning <a href="https://www.tensorflow.org"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tensorflow.svg" /></a><a href="https://keras.io"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/keras.svg" /></a>|
+
 ### Skills and Experience
 - SQL
 - PYTHON
