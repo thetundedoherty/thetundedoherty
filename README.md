@@ -1,7 +1,7 @@
-## Hi there 👋  
-#### Data analytics and Analytics Engineering
+# Hi there 👋  
 ![Data analytics and Analytics Engineering](https://pbs.twimg.com/profile_banners/236070061/1641470663/1500x500)
-My name is Ayotunde Doherty and I am Data professional with competencies in Data Analytics and business intelligence. I am interested in generating insightful reports for business intelligence and building interactive dashboard.
+## Data analytics and Analytics Engineering
+I am Ayotunde Doherty and I am Data professional with competencies in Data Analytics and business intelligence. I am interested in generating insightful reports for business intelligence and building interactive dashboard.
 
 
 ### Skills and Experience
