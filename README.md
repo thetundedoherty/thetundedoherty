@@ -5,7 +5,7 @@ My name is Ayotunde Doherty and I am Data professional with competencies in Data
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thetundedoherty)](https://github.com/anuraghazra/github-readme-stats)
 
-###Skills and Experience
+### Skills and Experience
 - SQL
 - PYTHON
 - MICROSOFT EXCEL
