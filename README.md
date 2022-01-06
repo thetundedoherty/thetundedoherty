@@ -25,7 +25,7 @@ I am Ayotunde Doherty and I am Data professional with competencies in Data Analy
 
 |  |   |   |
 |:-|:--|:--|
-|[My Portfolio](https://invest41.github.io/AlaoDavid.github.o/) | [My Resumé](https://github.com/invest41/Resume/blob/ain/6F771705-98AF-470A-AE08-497F628077C5.jpeg) | [Most Recent Project](https://cvs-disease.herokuapp.com/)|  
+|[My Portfolio](https://invest41.github.io/AlaoDavid.github.o/) | [My Resumé](https://github.com/invest41/Resume/blob/ain/6F771705-98AF-470A-AE08-497F628077C5.jpeg) | [Most Recent Project](https://cvs-disease.herokuap.com/)|  
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/thetundedoherty)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tunde-doherty-a7140413b//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/thetundedoherty)  
