@@ -25,7 +25,7 @@ I am Ayotunde Doherty and I am Data professional with competencies in Data Analy
 
 |  |   |   |
 |:-|:--|:--|
-|[OSHA COVID-19 Inspection](https://github.com/thetundedoherty/OSHA) | [Internatinal Breweries sales records]https://github.com/thetundedoherty/INTBREW | [Most Recent Project](https://github.com/thetundedoherty/PalmoriaGroup|  
+|[OSHA COVID-19 Inspection](https://github.com/thetundedoherty/OSHA) | [Internatinal Breweries sales records](https://github.com/thetundedoherty/INTBREW) | [Most Recent Project](https://github.com/thetundedoherty/PalmoriaGroup)|  
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/thetundedoherty)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tunde-doherty-a7140413b//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/thetundedoherty)  
