@@ -21,7 +21,7 @@ I am Ayotunde Doherty and I am Data professional with competencies in Data Analy
 - 😄 Pronouns: HE/HIM 
 - ⚡ Fun fact: Scrabble player 
 
-# Project  
+## Project  
 
 |  |   |   |
 |:-|:--|:--|
@@ -32,7 +32,7 @@ I am Ayotunde Doherty and I am Data professional with competencies in Data Analy
 |:-|:--|:--|
 | [PalmoriaGroup Project](https://github.com/thetundedoherty/PalmoriaGroup)| 
 
-# Resume
+## Resume
 |  |   |   |
 |:-|:--|:--|
 | [Resume](https://github.com/thetundedoherty/thetundedoherty/blob/main/My%20Resume.pdf)| 
