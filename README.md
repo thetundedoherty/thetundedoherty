@@ -15,8 +15,8 @@ I am Ayotunde Doherty and I am Data professional with competencies in Data Analy
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thetundedoherty)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on this page. 
-- 👯 I’m looking to collaborate on Data Analytics  project 
-- 🤔 I’m looking for help with entry level Data Analysis/Business Intelligence role. 
+- 👯 I’m looking to collaborate on Data Analytics project 
+- 🤔 I’m currently operating a Data Analysis learning hub. 
 - 📫 How to reach me: jeffersdoherty@gmail.com 
 - 😄 Pronouns: HE/HIM 
 - ⚡ Fun fact: Scrabble player 
