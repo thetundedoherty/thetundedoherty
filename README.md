@@ -1,5 +1,5 @@
 # Hi there 👋  
-![Data analytics and Analytics Engineering](https://pbs.twimg.com/profile_banners/236070061/1641623630/1500x500)
+![Data Science](https://pbs.twimg.com/profile_banners/236070061/1641623630/1500x500)
 ## Data analytics and Analytics Engineering
 I am Ayotunde Doherty and I am Data professional with competencies in Data Analysis and business intelligence. I am interested in generating insightful reports for business intelligence and building interactive dashboard.
 
@@ -10,7 +10,7 @@ I am Ayotunde Doherty and I am Data professional with competencies in Data Analy
 - MICROSOFT EXCEL
 - MICROSOFT POWER BI
 - GIT
-- DAX
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thetundedoherty)](https://github.com/anuraghazra/github-readme-stats)
 
