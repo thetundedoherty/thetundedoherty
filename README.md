@@ -23,13 +23,13 @@ I am Ayotunde Doherty and I am Data professional with competencies in Data Analy
 
 ## Project  
 
-|  |   |
-|:-|:--|
+|  |   |    |
+|:-|:--|:---|
 |[OSHA COVID-19 Inspection](https://github.com/thetundedoherty/OSHA) |[OSHA Severe_Injury](https://github.com/thetundedoherty/Severe_Injury)| [Internatinal Breweries sales records](https://github.com/thetundedoherty/INTBREW) 
 
 ### Recent project
-|  | 
-|:-|
+|  |   |
+|:-|:--|
 |[Employee_Attrition](https://github.com/thetundedoherty/Employee_Attrition) | [PalmoriaGroup Project](https://github.com/thetundedoherty/PalmoriaGroup)
 
 ## Resume
