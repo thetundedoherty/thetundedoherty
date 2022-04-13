@@ -25,7 +25,7 @@ I am Ayotunde Doherty and I am Data professional with competencies in Data Analy
 
 |  |   |
 |:-|:--|
-|[OSHA COVID-19 Inspection](https://github.com/thetundedoherty/OSHA) |[OSHA Severe_Injury](https://github.com/thetundedoherty/Severe_Injury) [Internatinal Breweries sales records](https://github.com/thetundedoherty/INTBREW) 
+|[OSHA COVID-19 Inspection](https://github.com/thetundedoherty/OSHA) |[OSHA Severe_Injury](https://github.com/thetundedoherty/Severe_Injury)| [Internatinal Breweries sales records](https://github.com/thetundedoherty/INTBREW) 
 
 ### Recent project
 |  | 
