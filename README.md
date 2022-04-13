@@ -30,7 +30,7 @@ I am Ayotunde Doherty and I am Data professional with competencies in Data Analy
 ### Recent project
 |  | 
 |:-|
-| [PalmoriaGroup Project](https://github.com/thetundedoherty/PalmoriaGroup)| 
+|[Employee_Attrition](https://github.com/thetundedoherty/Employee_Attrition) | [PalmoriaGroup Project](https://github.com/thetundedoherty/PalmoriaGroup)| 
 
 ## Resume
 |  | 
