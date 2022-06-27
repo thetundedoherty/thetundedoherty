@@ -1,14 +1,14 @@
 # Hi there 👋  
 ![Data Science](https://pbs.twimg.com/profile_banners/236070061/1641623630/1500x500)
 ## Data Science and Business Analytics
-I am Ayotunde Doherty and I am Data professional with competencies in Data Analysis and business intelligence. I am interested in generating insightful reports for business intelligence and building interactive dashboard.
+I am Ayotunde Doherty and I am Data professional with competencies in Statistical Data Analysis and business intelligence, Data Analytics and Visualization using Python(Numpy, Pandas, Scikit-Learn,  Matplotlib & Seaborn) and demonstrated history of working on Data Analysis and Data Science projects. I am zealous of using Machine Learning model to predict industrial engineering hazards
 
 
 ### Skills and Experience
-- SQL
 - PYTHON
-- MICROSOFT EXCEL
+- SQL
 - MICROSOFT POWER BI
+- MICROSOFT EXCEL
 - GIT
 
 
@@ -16,7 +16,7 @@ I am Ayotunde Doherty and I am Data professional with competencies in Data Analy
 
 - 🔭 I’m currently working on this page. 
 - 👯 I’m looking to collaborate on Data Analytics project 
-- 🤔 I’m currently operating a Data Analysis learning hub. 
+- 🤔 I’m currently working on a Data Analysis learning hub. 
 - 📫 How to reach me: jeffersdoherty@gmail.com 
 - 😄 Pronouns: HE/HIM 
 - ⚡ Fun fact: Scrabble player 
@@ -25,13 +25,12 @@ I am Ayotunde Doherty and I am Data professional with competencies in Data Analy
 
 |  |   |    |
 |:-|:--|:---|
-|[OSHA COVID-19 Inspection](https://github.com/thetundedoherty/OSHA) |[OSHA Severe_Injury](https://github.com/thetundedoherty/Severe_Injury)| [Internatinal Breweries sales records](https://github.com/thetundedoherty/INTBREW) 
+|[Prosper Loan Data](https://github.com/thetundedoherty/LoanProsper) |[OSHA Severe_Injury](https://github.com/thetundedoherty/Severe_Injury)| [WeRateDogs Twitter Data](https://github.com/thetundedoherty/WeRateDogs-Twitter-data) 
 
 ### Recent project
 |  |   |
 |:-|:--|
-|[Employee_Attrition](https://github.com/thetundedoherty/Employee_Attrition) | [PalmoriaGroup Project](https://github.com/thetundedoherty/PalmoriaGroup)
-
+|[Medical Appointment Records](https://github.com/thetundedoherty/Investigation-of-medical-appointment-records-in-Brazil) | |[Employee_Attrition](https://github.com/thetundedoherty/Employee_Attrition)
 ## Resume
 |  | 
 |:-|
