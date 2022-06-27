@@ -1,7 +1,7 @@
 # Hi there 👋  
 ![Data Science](https://pbs.twimg.com/profile_banners/236070061/1641623630/1500x500)
 ## Data Science and Business Analytics
-I am Ayotunde Doherty and I am Data professional with competencies in Statistical Data Analysis and business intelligence, Data Analytics and Visualization using Python(Numpy, Pandas, Scikit-Learn,  Matplotlib & Seaborn) and demonstrated history of working on Data Analysis and Data Science projects. I am zealous of using Machine Learning model to predict industrial engineering hazards
+I am Ayotunde Doherty and I am Data professional with competency in Statistical Data Analysis and Visualization using Python(Numpy, Pandas, Scikit-Learn,  Matplotlib & Seaborn) and demonstrated history of working on Data Analysis and Data Science projects. I am passionate about using Machine Learning model to predict industrial engineering hazards and severe injuries.
 
 
 ### Skills and Experience
