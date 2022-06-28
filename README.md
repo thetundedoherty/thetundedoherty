@@ -1,7 +1,7 @@
 # Hi there 👋  
 ![Data Science](https://pbs.twimg.com/profile_banners/236070061/1641623630/1500x500)
 ## Data Analytics
-I am Ayotunde Doherty and I am a Facility Data Manager who loves Data Analytics and providing Statistical Data Analysis and Visualization using Python(Numpy, Pandas, Scikit-Learn,  Matplotlib & Seaborn). I possess a demonstrated history of working on Data Analysis and Data Science projects. I am passionate about using inspection data building Machine Learning Model to predict Industrial Engineering hazards and severe injuries.
+I am a Facility Data Manager who loves Data Analytics and providing Statistical Data Analysis and Visualization using Python(Numpy, Pandas, Scikit-Learn, Matplotlib & Seaborn). I have a demonstrated history of working on Data Analysis and Data Science projects. I am passionate about using inspection data to building Machine Learning Model to predict Industrial Engineering hazards that can lead to Severe Injuries or Death.
 
 
 ### Skills and Experience
