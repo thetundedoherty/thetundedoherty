@@ -14,8 +14,8 @@ I am a Facility Manager who loves Data Analytics and providing Statistical Data 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thetundedoherty)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on this page. 
-- 👯 I’m looking to collaborate on Data Analytics project 
+- 🔭 I’m currently a facility manager. 
+- 👯 I’m looking to collaborate on industrial health and safety Data Analytics project 
 - 🤔 I’m currently working on a Data Analysis learning hub. 
 - 📫 How to reach me: jeffersdoherty@gmail.com 
 - 😄 Pronouns: HE/HIM 
