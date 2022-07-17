@@ -1,5 +1,5 @@
 # Hi there 👋  
-![Data Science](https://media-exp2.licdn.com/dms/image/C4E16AQH-MrKaM5ZKyQ/profile-displaybackgroundimage-shrink_200_800/0/1657787013973?e=1663200000&v=beta&t=0EK7QQiBaa9n9uhuPm89rpfBxWzwNzQSot1CvEn1Dz8)
+![Data Science](https://pbs.twimg.com/profile_banners/236070061/1658062185/1080x360)
 ## Facility Manager and Data Analytics
 I am a Facility Manager who loves Data Analytics and providing Statistical Data Analysis and Visualization using Python(Numpy, Pandas, Scikit-Learn, Matplotlib & Seaborn). I have a demonstrated history of working on Data Analysis and Data Science projects. I am passionate about using inspection data to building Machine Learning Model to predict Industrial Engineering hazards that can lead to Severe Injuries or Death.
 
