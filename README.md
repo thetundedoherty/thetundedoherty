@@ -1,7 +1,7 @@
 # Hi there 👋  
 ![Data Science](https://pbs.twimg.com/profile_banners/236070061/1658062185/1080x360)
-## Facility Manager and Data Analytics
-I am a Facility Manager who loves Data Analytics and providing Statistical Data Analysis and Visualization using Python(Numpy, Pandas, Scikit-Learn, Matplotlib & Seaborn). I have a demonstrated history of working on Data Analysis and Data Science projects. I am passionate about using inspection data to building Machine Learning Model to predict Industrial Engineering hazards that can lead to Severe Injuries or Death.
+## Data Analytics
+With so much data being generated in this age, it is only wise we leverage it in order to make informed decisions. I have a demonstrated history of executing data-driven solutions through efficient and accurate manipulation of data. I am passionate about using predictive modeling and implementing action-oriented solutions to complex business problems.
 
 
 ### Skills and Experience
@@ -14,8 +14,8 @@ I am a Facility Manager who loves Data Analytics and providing Statistical Data 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thetundedoherty)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently a facility manager. 
-- 👯 I’m looking to collaborate on industrial health and safety Data Analytics project 
+- 🔭 I’m currently a freelancer. 
+- 👯 I’m looking to collaborate on  Data Analytics project 
 - 🤔 I’m currently working on a Data Analysis learning hub. 
 - 📫 How to reach me: jeffersdoherty@gmail.com 
 - 😄 Pronouns: HE/HIM 
