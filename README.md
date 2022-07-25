@@ -1,5 +1,5 @@
 # Hi there 👋  
-![Data Science](https://twitter.com/thetundedoherty/header_photo)
+![Data Science]([https://twitter.com/thetundedoherty/header_photo])
 ## Data Analytics
 With so much data being generated in this age, it is only wise we leverage it in order to make informed decisions. I have a demonstrated history of executing data-driven solutions through efficient and accurate manipulation of data. I am passionate about using predictive modeling and implementing action-oriented solutions to complex business problems.
 
