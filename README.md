@@ -1,5 +1,5 @@
 # Hi there 👋  
-![Data Science]([https://media-exp1.licdn.com/dms/image/C4D16AQF3oNXvm0WvKw/profile-displaybackgroundimage-shrink_200_800/0/1658731741279?e=1664409600&v=beta&t=3LozTI8cZIbZpXLRYLQZfL7KLk4uFCJEcWEWtXtFraY])
+![Data Science](https://media-exp1.licdn.com/dms/image/C4D16AQF3oNXvm0WvKw/profile-displaybackgroundimage-shrink_200_800/0/1658731741279?e=1664409600&v=beta&t=3LozTI8cZIbZpXLRYLQZfL7KLk4uFCJEcWEWtXtFraY)
 ## Data Analytics
 With so much data being generated in this age, it is only wise we leverage it in order to make informed decisions. I have a demonstrated history of executing data-driven solutions through efficient and accurate manipulation of data. I am passionate about using predictive modeling and implementing action-oriented solutions to complex business problems.
 
