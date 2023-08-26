@@ -1,7 +1,7 @@
 # Hi there 👋  
 ![Data Science](https://pbs.twimg.com/profile_banners/236070061/1658731324/600x200)
 ## Data Analytics
-With so much data being generated in this age, it is only wise we leverage it in order to make informed decisions. I have a demonstrated history of executing data-driven solutions through efficient and accurate manipulation of data. I am passionate about using predictive modeling and implementing action-oriented solutions to complex business problems.
+With so much data being generated in this age, it is only wise we leverage it to make informed decisions. I have a demonstrated history of executing data-driven solutions through efficient and accurate manipulation of data. I am passionate about using predictive modeling and implementing action-oriented solutions to complex business problems.
 
 
 ### Skills and Experience
@@ -15,7 +15,7 @@ With so much data being generated in this age, it is only wise we leverage it in
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thetundedoherty)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently a freelancer. 
-- 👯 I’m looking to collaborate on  Data Analytics project 
+- 👯 I’m looking to collaborate on a Data Analytics project 
 - 🤔 I’m currently working on a Data Analysis learning hub. 
 - 📫 How to reach me: jeffersdoherty@gmail.com 
 - 😄 Pronouns: HE/HIM 
