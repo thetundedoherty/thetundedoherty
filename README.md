@@ -1,5 +1,5 @@
 # Hi there 👋  
-![Data Science](https://twitter.com/thetundedoherty/header_photo)
+![Data Science](https://media.licdn.com/dms/image/D4D16AQEXrSJ5yFbEHg/profile-displaybackgroundimage-shrink_350_1400/0/1671112345618?e=1701907200&v=beta&t=o_09HilD-eDzeabv6YHug6dZj36Wg8mLduYhvxwgTAU)
 ## Data Analytics
 With so much data being generated in this age, it is only wise we leverage it to make informed decisions. I have a demonstrated history of executing data-driven solutions through efficient and accurate manipulation of data. I am passionate about using predictive modeling and implementing action-oriented solutions to complex business problems.
 
@@ -34,7 +34,7 @@ With so much data being generated in this age, it is only wise we leverage it to
 ## Resume
 |  | 
 |:-|
-| [Resume](https://github.com/thetundedoherty/thetundedoherty/blob/main/My%20Resume.pdf)| 
+| [Resume](https://github.com/thetundedoherty/thetundedoherty/blob/main/resume.Tunde.pdf)| 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/thetundedoherty) 
