@@ -18,7 +18,7 @@ With so much data being generated in this age, it is only wise we leverage it to
 - 👯 I’m looking to collaborate on a Data Analytics project 
 - 🤔 I’m currently working on a Data Analysis learning hub. 
 - 📫 How to reach me: jeffersdoherty@gmail.com 
-- 😄 Pronouns: HE/HIM 
+- 😄 Pronouns: HE/HIM/HIS 
 - ⚡ Fun fact: Scrabble player 
 
 ## Project  
