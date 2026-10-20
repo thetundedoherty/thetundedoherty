@@ -22,7 +22,7 @@ With so much data being generated today, it is only wise to leverage it to make 
 - 👯 I’m looking to collaborate on an AI Data training and evaluation project.
 - 🤔 I’m currently working on an AI product that tends to solve real-world problems. 
 - 📫 How to reach me: jeffersdoherty@gmail.com 
-- 😄 Pronouns: HE/HIM/HIS 
+- 😄 Pronouns: HE/HIM
 - ⚡ Fun fact: Scrabble player 
 
 ## Project  
