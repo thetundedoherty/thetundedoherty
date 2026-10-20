@@ -1,6 +1,6 @@
 # Hi there 👋  
 [AI Product Engineering, AI Data Training & Quality Analysis]
-## Data Analytics, Data Science, AI Data Training & Quality Analyst
+## Data Analytics, Data Science, AI Data Training & Quality Analysis
 With so much data being generated today, it is only wise to leverage it to make informed decisions. I have a demonstrated history of executing data-driven solutions through efficient and accurate manipulation of data. I am passionate about using predictive modeling and implementing action-oriented solutions to complex business problems.
 
 
